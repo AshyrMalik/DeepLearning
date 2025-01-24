@@ -1,1 +1,1 @@
-This repo contains deep learning projects that i have done
+This repo contains deep learning projects that i have done smaller projects 
